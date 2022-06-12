@@ -149,6 +149,7 @@ var add1 = function( c,d){
  console.log(res);
 }
 
+
 add1(10, 20);
 
 var result=add(25,35);
